@@ -18,8 +18,12 @@
 
 ## 3D printed parts
 
-https://www.thingiverse.com/thing:5583965 or https://www.printables.com/model/301866-electric-screwdriver-case-snap-fit
-https://www.thingiverse.com/thing:5568953 or https://www.printables.com/model/296624-bit-to-motor-shaft-adapter
+- Case
+    https://www.thingiverse.com/thing:5583965 or
+    https://www.printables.com/model/301866-electric-screwdriver-case-snap-fit
+- Bit adapter 
+    https://www.thingiverse.com/thing:5568953 or
+    https://www.printables.com/model/296624-bit-to-motor-shaft-adapter
 
 
 ## Schematic
