@@ -18,6 +18,6 @@
 
 ## Schematic
 
-image.png
+![alt text](schematic.png "Schematic image")
 
 Fritzing file with schematic is placed in the repository (ElectricScrewdriverSchematic.fzz)
