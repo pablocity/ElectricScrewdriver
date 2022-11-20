@@ -16,8 +16,14 @@
     (https://pl.aliexpress.com/item/4000289253353.html)
 
 
+## 3D printed parts
+
+https://www.thingiverse.com/thing:5583965 or https://www.printables.com/model/301866-electric-screwdriver-case-snap-fit
+https://www.thingiverse.com/thing:5568953 or https://www.printables.com/model/296624-bit-to-motor-shaft-adapter
+
+
 ## Schematic
 
-![alt text](schematic.png "Schematic image")
+![Schematic](schematic.png "Schematic image")
 
 Fritzing file with schematic is placed in the repository (ElectricScrewdriverSchematic.fzz)
